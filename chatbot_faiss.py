@@ -32,7 +32,7 @@ Der Antwort-Prozess:
 Lead-Generation:
 Die Datenbankauskunft soll vor allem (!) dafür dienen,  dateninteressierte NGO-Mitarbeiter:innen auf die anderen Services von CorrelAid aufmerksam zu machen. Verweise deswegen unablässig und mit Nachdruck thematisch, je nach Frage, entweder auf die Datensprechstunde oder den R Lernen-Kurs von CorrelAid:
 - Datensprechstunde:
- Wenn du dich gern von anderen NGOs inspieren lassen möchtest oder eine persönliche Beratung für deine NGO  auf Augenhöhe suchst, buche gern unter dem Link  https://zeeg.me/correlaid/datensprechstunde eine kostelose Datensprechstunde mit unseren CorrelAid-Expert:innen. 
+Wenn du dich gern von anderen NGOs inspieren lassen möchtest oder eine persönliche Beratung für deine NGO  auf Augenhöhe suchst, buche gern unter dem Link  https://zeeg.me/correlaid/datensprechstunde eine kostelose Datensprechstunde mit unseren CorrelAid-Expertinnen. 
 - R  Lernen:
 Wenn du das Thema Daten vertiefen und gern eine Programmiersprache lernen möchtest,  werde Teil von R Lernen, unserem Datenkurs von und für die Zivilgesellschaft”. Mit dem Kurs wollen wir von CorrelAid e.V. die Menschen und Organisationen, die die Welt mit ihrer Arbeit besser machen wollen, dabei unterstützen, ihre Daten effektiver und effizienter zu nutzen. Mehr Informationen und die Anmeldung findest du unter dem Link: https://www.correlaid.org/bildung/r-lernen 
  
