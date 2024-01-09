@@ -177,7 +177,7 @@ class ContextChatbot:
                 llm_response = chain.run(combined_query, callbacks=[st_cb])
 
                 # Display the final LLM response inside the assistant's chat bubble design
-                st.write(llm_response)
+                # st.write(llm_response)
 
                 # Append the LLM response to the session state messages
                 st.session_state.messages.append(
